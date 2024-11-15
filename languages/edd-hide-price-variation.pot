@@ -2,7 +2,7 @@
 # This file is distributed under the GPL v2 or later.
 msgid ""
 msgstr ""
-"Project-Id-Version: EDD Hide Price Variation 1.0.0\n"
+"Project-Id-Version: Easy Digital Downloads - Hide Price Variation 1.0.0\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/edd-hide-price-variation\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -14,6 +14,10 @@ msgstr ""
 "X-Generator: WP-CLI 2.8.1\n"
 "X-Domain: edd-hide-price-variation\n"
 
-#: edd-hide-price-variation.php:65
+#: edd-hide-price-variation.php:77
+msgid "Easy Digital Downloads - Hide Price Variation requires Easy Digital Downloads to be installed and active. You can download %s here."
+msgstr ""
+
+#: edd-hide-price-variation.php:134
 msgid "Hide this price option from customers"
 msgstr ""
